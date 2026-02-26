@@ -1,4 +1,5 @@
 # Jest Express API Testing Example
+# ![CI](https://github.com/thamerh/jest-express-api-testing-example/actions/workflows/ci.yml/badge.svg)
 
 This repository provides a simple example of how to test a Node.js API using [Jest](https://jestjs.io/). The project is structured to demonstrate unit testing for an Express application, covering controllers, services, routers, and server configuration.
 
